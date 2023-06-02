@@ -2,11 +2,9 @@
 This is a coding assessment for New Vision Foundation: Full Stack Coding Bootcamp Application.
 
 ## Instructions:
-- Clone this repo
-- Create a file and call it app.js
-- Solve the following [Fashion Measurement Conversion project](https://github.com/nu-viz/fs-bootcamp-assessment#fashion-measurement-conversion)
-- Once project is complete push changes to YOUR own repository and name it by `firstname-lastname-fs-bootcamp-assessment` for example if your name is Sarah Ali, name your repo `sarah-ali-fs-bootcamp-assessment`
-- Copy link to repository and paste in in your application
+- Solve the following [Fashion Measurement Conversion project](https://github.com/nu-viz/fs-bootcamp-assessment#fashion-measurement-conversion) on your playcode.io [follow the instructions from the application doc](https://docs.google.com/document/d/1Jin5g7tJCIAKDNbJmjJYGKBQrbCJo8S_j3iCjYScTbI/edit?usp=sharing)
+- Once project is complete and you saved your answer, copy link to your application form.
+
 
 ### Fashion Measurement Conversion
 We need your help converting a few measurements since we will be moving our Fashion Clothing Line to South Africa and they use the metric system.
@@ -51,5 +49,5 @@ INCHESin  converts to CENTIMETERcm which converts to METERSm.
 ```
 > Use string interpolation to replace INCHES with the value of inches & CENTIMETER with the value saved to `centimeter` & METERS with the value save to `meter`.
 
-Open your code in the browser and check the console. GREAT WORK!Inches can now publish her fashion items in Centimeters and Meters.
+Check the console. GREAT WORK!Inches can now publish her fashion items in Centimeters and Meters.
 
